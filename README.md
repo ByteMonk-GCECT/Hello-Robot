@@ -1,4 +1,4 @@
-![Hello Robot](https://github.com/ByteMonk-GCECT/Hello-Robot/blob/main/visual/80329Roadmap.png)
+![Hello Robot](https://github.com/ByteMonk-GCECT/Hello-Robot/blob/main/visual/hello%20robot%20banner.png)
 
 <hr>
 
