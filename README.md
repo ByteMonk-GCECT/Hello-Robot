@@ -23,6 +23,10 @@
    - csv
 * Regular Expressions (RegEx)
 ### ֍ Python Programming:
+* Python Basics
+* Important Libraries
+* Virtual Environments
+* Jupyter Notebooks
 ### (Maths: Stats, Calculus, Lanugages: , Libraries: )
 ## ֍ How to start learning: (Data Manipulation, EDA, Regression and classification, Algorithms, DL, NN architectures) 
 ## ֍ Some Project Ideas: 
