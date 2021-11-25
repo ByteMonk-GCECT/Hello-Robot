@@ -23,7 +23,12 @@
    - csv
 * Regular Expressions (RegEx)
 ### ֍ Python Programming:
-* Python Basics
+* Python Basics:-
+   - Expressions
+   - Variables
+   - Data Structures
+   - Functions
+   - Install packages (via pip, conda, e.t.c)
 * Important Libraries
 * Virtual Environments
 * Jupyter Notebooks
