@@ -7,6 +7,9 @@
 <hr>
 
 ## ֍ Pre requisites for starting your Machine Learning journey:
+* Matrices and Linear Algebra Fundamentals
+* Database Basics
+* 
 ### (Maths: Stats, Calculus, Lanugages: , Libraries: )
 ## ֍ How to start learning: (Data Manipulation, EDA, Regression and classification, Algorithms, DL, NN architectures) 
 ## ֍ Some Project Ideas: 
