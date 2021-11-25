@@ -34,7 +34,11 @@
    - Pandas
 * Virtual Environments
 * Jupyter Notebooks
-### (Maths: Stats, Calculus, Lanugages: , Libraries: )
+### ֍ Python Programming:
+* Data Mining
+* Web Scraping
+* Public Datasets
+* Kaggle
 ## ֍ How to start learning: (Data Manipulation, EDA, Regression and classification, Algorithms, DL, NN architectures) 
 ## ֍ Some Project Ideas: 
 ## ֍ Resources: 
