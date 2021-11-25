@@ -39,6 +39,16 @@
 * Web Scraping
 * Public Datasets
 * Kaggle
+## ֍ Exploratory Data Analysis/Data Munging/Wrangling:-
+* Principal Component Analysis (PCA)
+* Dimensionalty and Numerosity Reduction
+* Normalisation
+* Data Scrubbing, Handling Missing Values
+* Unbiased Estimators
+* Binning Sparse Values
+* Feature Extraction
+* Denoising
+* Sampling
 ## ֍ How to start learning: (Data Manipulation, EDA, Regression and classification, Algorithms, DL, NN architectures) 
 ## ֍ Some Project Ideas: 
 ## ֍ Resources: 
