@@ -49,6 +49,19 @@
 * Feature Extraction
 * Denoising
 * Sampling
-## ֍ How to start learning: (Data Manipulation, EDA, Regression and classification, Algorithms, DL, NN architectures) 
+
+# ֍ Choose your path:-
+## ֍ Data Science:-
+* <a href="#ds">Data Science</a>
+* <a href="#ml">Machine Learning</a>
+* <a href="#dl">Deep Learning</a>
+## ֍ Data Engineer:-
+* <a href="#de">Data Engineer</a>
+* <a href="#bde">Big Data Engineer</a>
+# ֍ <a id="ds">Data Science:-</a>
+# ֍ <a id="ml">Machine Learning:-</a>
+# ֍ <a id="dl">Deep Learning:-</a>
+# ֍ <a id="de">Data Engineer:-</a>
+# ֍ <a id="bde">Big Data Engineer:-</a>
 ## ֍ Some Project Ideas: 
 ## ֍ Resources: 
