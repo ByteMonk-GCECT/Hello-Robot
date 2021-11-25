@@ -29,7 +29,9 @@
    - Data Structures
    - Functions
    - Install packages (via pip, conda, e.t.c)
-* Important Libraries
+* Important Libraries:-
+   - Numpy
+   - Pandas
 * Virtual Environments
 * Jupyter Notebooks
 ### (Maths: Stats, Calculus, Lanugages: , Libraries: )
