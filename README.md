@@ -59,6 +59,8 @@
 * <a href="#de">Data Engineer</a>
 * <a href="#bde">Big Data Engineer</a>
 # ֍ <a id="ds">Data Science:-</a>
+### ֍ Statistics:
+### ֍ Visualisation:
 # ֍ <a id="ml">Machine Learning:-</a>
 # ֍ <a id="dl">Deep Learning:-</a>
 # ֍ <a id="de">Data Engineer:-</a>
