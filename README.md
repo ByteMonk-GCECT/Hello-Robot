@@ -62,6 +62,10 @@
 ### ֍ Statistics:
 ### ֍ Visualisation:
 # ֍ <a id="ml">Machine Learning:-</a>
+### ֍ General:
+### ֍ Methods:
+### ֍ Use Cases:
+### ֍ Tools:
 # ֍ <a id="dl">Deep Learning:-</a>
 # ֍ <a id="de">Data Engineer:-</a>
 # ֍ <a id="bde">Big Data Engineer:-</a>
