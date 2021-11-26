@@ -67,6 +67,12 @@
 ### ֍ Use Cases:
 ### ֍ Tools:
 # ֍ <a id="dl">Deep Learning:-</a>
+### ֍ Papers:
+### ֍ Neural Networks:
+### ֍ Architectures:
+### ֍ Training:
+### ֍ Tools:
+### ֍ Model Optimisation:
 # ֍ <a id="de">Data Engineer:-</a>
 # ֍ <a id="bde">Big Data Engineer:-</a>
 ## ֍ Some Project Ideas: 
