@@ -75,5 +75,8 @@
 ### ֍ Model Optimisation:
 # ֍ <a id="de">Data Engineer:-</a>
 # ֍ <a id="bde">Big Data Engineer:-</a>
+### ֍ Big Data Architecture:
+### ֍ Principles:
+### ֍ Tools:
 ## ֍ Some Project Ideas: 
 ## ֍ Resources: 
