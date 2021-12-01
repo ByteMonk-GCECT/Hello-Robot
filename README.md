@@ -104,6 +104,11 @@
 * Confidence Interval
 * Monte Carlo Method
 ### ֍ Visualisation:
+* Chart suggestions thought starter
+* Python
+* Web
+* Dashboards
+* BI
 # ֍ <a id="ml">Machine Learning:-</a>
 ### ֍ General:
 ### ֍ Methods:
