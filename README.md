@@ -68,9 +68,28 @@
   - Cumulative distribution function (cdf)
   - Probability density function (pdf)
   - Probability mass function (pmf)
-* Continuous Distributions
-* Discrete Distributions
+* Continuous Distributions (pdf's)
+  - Normal/Gaussian
+  - Uniform (continuous)
+  - Beta
+  - Dirichlet
+  - Exponential
+  - chi-squared
+* Discrete Distributions (pmf's)
+  - Uniform (discrete)
+  - Binomial
+  - Multinomial
+  - Hypergeometric
+  - Poisson
+  - Geometric 
 * Summary statistics
+  - Expectation and mean
+  - Variance and standard deviation
+  - Covariance and Correlation
+  - Median, quartile
+  - Interquartile range
+  - Percentile/quantile
+  - Mode
 * Important Laws
 * Estimation
 * Hypothesis Testing
