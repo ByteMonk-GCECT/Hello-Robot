@@ -61,6 +61,13 @@
 # ֍ <a id="ds">Data Science:-</a>
 ### ֍ Statistics:
 * Probability Theory
+  - Randomness, random variables and random sample
+  - Probability distribution
+  - Conditional probability and Bayes Theorem
+  - Statistical Independence
+  - Cumulative distribution function (cdf)
+  - Probability density function (pdf)
+  - Probability mass function (pmf)
 * Continuous Distributions
 * Discrete Distributions
 * Summary statistics
