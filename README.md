@@ -91,9 +91,18 @@
   - Percentile/quantile
   - Mode
 * Important Laws
+  - Law of large numbers
+  - Central limit theorem
 * Estimation
+  - Maximum Likelihood estimation
+  - Kernel Density Estimation
 * Hypothesis Testing
+  - p-Value
+  - chi-square test
+  - F test
+  - t test
 * Confidence Interval
+*  Monte Carlo Method
 ### ֍ Visualisation:
 # ֍ <a id="ml">Machine Learning:-</a>
 ### ֍ General:
