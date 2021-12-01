@@ -102,7 +102,7 @@
   - F test
   - t test
 * Confidence Interval
-*  Monte Carlo Method
+* Monte Carlo Method
 ### ֍ Visualisation:
 # ֍ <a id="ml">Machine Learning:-</a>
 ### ֍ General:
