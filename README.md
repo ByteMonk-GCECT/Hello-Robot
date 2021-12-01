@@ -60,6 +60,14 @@
 * <a href="#bde">Big Data Engineer</a>
 # ֍ <a id="ds">Data Science:-</a>
 ### ֍ Statistics:
+* Probability Theory
+* Continuous Distributions
+* Discrete Distributions
+* Summary statistics
+* Important Laws
+* Estimation
+* Hypothesis Testing
+* Confidence Interval
 ### ֍ Visualisation:
 # ֍ <a id="ml">Machine Learning:-</a>
 ### ֍ General:
