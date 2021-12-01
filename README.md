@@ -106,9 +106,19 @@
 ### ֍ Visualisation:
 * Chart suggestions thought starter
 * Python
+  - Matplotlib
+  - plotnine
+  - Bokeh
+  - seaborn
+  - ipyvolume
 * Web
+  - Vega-Lite
+  - D3.js
 * Dashboards
+  - Dash
 * BI
+  - Tablaeu
+  - PowerBI
 # ֍ <a id="ml">Machine Learning:-</a>
 ### ֍ General:
 ### ֍ Methods:
