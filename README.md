@@ -171,6 +171,10 @@
 * Reinforcement Learning
   - Q Learning
 ### ֍ Use Cases:
+* Sentiment Analysis
+* Collaborative Filtering
+* Tagging
+* Prediction
 ### ֍ Tools:
 # ֍ <a id="dl">Deep Learning:-</a>
 ### ֍ Papers:
