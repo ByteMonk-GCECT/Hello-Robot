@@ -132,6 +132,10 @@
 * Bias and Variance
 * Lift
 ### ֍ Methods:
+* Supervised Learning
+* Unsupervised Learning
+* Ensemble Learning
+* Reinforcement Learning
 ### ֍ Use Cases:
 ### ֍ Tools:
 # ֍ <a id="dl">Deep Learning:-</a>
