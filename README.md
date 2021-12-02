@@ -122,6 +122,9 @@
 # ֍ <a id="ml">Machine Learning:-</a>
 ### ֍ General:
 * Concepts, Inputs and Attributes
+  - Categorical Variables
+  - Ordinal Variables
+  - Numerical Variables
 * Cost functions and gradient descent
 * Overfitting/ Underfitting
 * Training, validation and test data
