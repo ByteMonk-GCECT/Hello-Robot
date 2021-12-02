@@ -176,6 +176,9 @@
 * Tagging
 * Prediction
 ### ֍ Tools:
+* Important libraries
+  - scikit-learn
+  - space(NLP)
 # ֍ <a id="dl">Deep Learning:-</a>
 ### ֍ Papers:
 ### ֍ Neural Networks:
