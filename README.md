@@ -137,9 +137,39 @@
     - Linear Regression
     - Poisson Regression
   - Classification
+    - Classification Rate
+    - Decision Trees
+    - Logistic Regression
+    - Naive Bayes Classifiers
+    - K Nearest Neighbour
+    - Support Vector Machines
+    - Gaussian Mixture Models
 * Unsupervised Learning
+  - Clustering
+    - Hierarchical Clustering
+    - K Means Clustering
+    - DBSCAN
+    - HDBSCAN
+    - Fuzzy C Means
+    - Mean Shift
+    - Agglomerative
+    - OPTICS 
+  - Association Rule Learning
+    - Apriori Algorithm
+    - ECLAT Algorithm
+    - FP Trees
+  - Dimensionality Reduction
+    - Principal Component Analysis
+    - Random Projection
+    - NMF
+    - T-SNE
+    - UMAP
 * Ensemble Learning
+  - Boosting
+  - Bagging
+  - Stacking
 * Reinforcement Learning
+  - Q Learning
 ### ֍ Use Cases:
 ### ֍ Tools:
 # ֍ <a id="dl">Deep Learning:-</a>
