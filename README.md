@@ -121,6 +121,13 @@
   - PowerBI
 # ֍ <a id="ml">Machine Learning:-</a>
 ### ֍ General:
+* Concepts, Inputs and Attributes
+* Cost functions and gradient descent
+* Overfitting/ Underfitting
+* Training, validation and test data
+* Precision vs Recall
+* Bias and Variance
+* Lift
 ### ֍ Methods:
 ### ֍ Use Cases:
 ### ֍ Tools:
