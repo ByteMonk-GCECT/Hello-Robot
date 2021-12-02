@@ -178,7 +178,7 @@
 ### ֍ Tools:
 * Important libraries
   - scikit-learn
-  - space(NLP)
+  - spacy(NLP)
 # ֍ <a id="dl">Deep Learning:-</a>
 ### ֍ Papers:
 ### ֍ Neural Networks:
