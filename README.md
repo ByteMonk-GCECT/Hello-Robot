@@ -133,6 +133,10 @@
 * Lift
 ### ֍ Methods:
 * Supervised Learning
+  - Regression
+    - Linear Regression
+    - Poisson Regression
+  - Classification
 * Unsupervised Learning
 * Ensemble Learning
 * Reinforcement Learning
