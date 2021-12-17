@@ -217,6 +217,11 @@
 * Batch Normalisation
 * Batch Size Effects
 * Regularisation
+  - Early Stopping
+  - Dropout
+  - Parameter Penalties
+  - Data Augmentation
+  - Adversarial Training
 * Multitask Learning
 * Transfer Learning
 * Curriculum Learning
