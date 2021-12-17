@@ -190,6 +190,21 @@
 * Weight initialisation
 * Vanishing/Exploding gradient Problem
 ### ֍ Architectures:
+* Feedforward Neural Network
+* Autoencoder
+* Convolutional Neural Network
+  - Pooling
+* Recurrent Neural Network
+  - LSTM
+  - GRU
+* Transformer
+  - Encoder
+  - Decoder
+  - Attention
+* Siamese Network
+* Generative Adversarial Network (GAN)
+* Evolving Architectures/ NEAT
+* Residual Connections
 ### ֍ Training:
 ### ֍ Tools:
 ### ֍ Model Optimisation:
