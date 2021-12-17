@@ -181,7 +181,14 @@
   - spacy(NLP)
 # ֍ <a id="dl">Deep Learning:-</a>
 ### ֍ Papers:
+* Read DL Papers with concepts
+* Read DL Papers with code
 ### ֍ Neural Networks:
+* Understanding Neural Networks
+* Loss functions
+* Activation functions
+* Weight initialisation
+* Vanishing/Exploding gradient Problem
 ### ֍ Architectures:
 ### ֍ Training:
 ### ֍ Tools:
