@@ -226,6 +226,13 @@
 * Transfer Learning
 * Curriculum Learning
 ### ֍ Tools:
+* Important Libraries
+  - Awesome Deep Learning
+  - Huggingface Transformers
+* Tensorflow
+* PyTorch
+* Tensorboard
+* MLFlow
 ### ֍ Model Optimisation:
 # ֍ <a id="de">Data Engineer:-</a>
 # ֍ <a id="bde">Big Data Engineer:-</a>
