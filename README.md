@@ -206,6 +206,14 @@
 * Evolving Architectures/ NEAT
 * Residual Connections
 ### ֍ Training:
+* Optimizers
+* Learning Rate Schedule
+* Batch Normalisation
+* Batch Size Effects
+* Regularisation
+* Multitask Learning
+* Transfer Learning
+* Curriculum Learning
 ### ֍ Tools:
 ### ֍ Model Optimisation:
 # ֍ <a id="de">Data Engineer:-</a>
