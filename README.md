@@ -207,6 +207,12 @@
 * Residual Connections
 ### ֍ Training:
 * Optimizers
+  - SGD
+  - Momentum
+  - AdaGrad
+  - AdaDelta
+  - Nadam
+  - RMSProp
 * Learning Rate Schedule
 * Batch Normalisation
 * Batch Size Effects
