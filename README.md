@@ -234,6 +234,9 @@
 * Tensorboard
 * MLFlow
 ### ֍ Model Optimisation:
+* Distillation
+* Quantization
+* Neural Architecture Search (NAS)
 # ֍ <a id="de">Data Engineer:-</a>
 # ֍ <a id="bde">Big Data Engineer:-</a>
 ### ֍ Big Data Architecture:
