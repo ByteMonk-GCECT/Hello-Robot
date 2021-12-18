@@ -254,6 +254,11 @@
 ### ֍ Big Data Architecture:
 * Architectural Patterns and Best Practices
 ### ֍ Principles:
+* Horizontal vs Vertical Scaling
+* Map reduce
+* Data replication
+* Name and Data Nodes
+* Job and Task Tracker
 ### ֍ Tools:
 ## ֍ Some Project Ideas: 
 ## ֍ Resources: 
