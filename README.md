@@ -280,6 +280,8 @@
 * MLFlow
 * Kafka and KSQL
 * Databases
+  - Cassandra
+  - MongoDB, Neo4j
 * Scalability
 * Cloud Services
 * Awesome Production ML
