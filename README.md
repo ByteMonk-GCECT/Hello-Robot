@@ -289,6 +289,4 @@
   - AWS Sagemaker
   - Google ML Engine
   - Microsoft Azure Machine Learning Studio
-* Awesome Production ML
-## ֍ Some Project Ideas: 
-## ֍ Resources: 
+* Awesome Production ML 
