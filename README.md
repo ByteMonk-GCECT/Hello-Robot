@@ -262,6 +262,9 @@
 ### ֍ Tools:
 * Check the awesome big data list
 * Hadoop (large data)
+  - HDFS
+  - Loading data with Sqoop and Pig
+  - Storm: Hadoop Realtime
 * Spark (in memory)
 * RAPIDS (on GPU)
 * Flume, Scribe: For unstruct Data
