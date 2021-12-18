@@ -283,7 +283,12 @@
   - Cassandra
   - MongoDB, Neo4j
 * Scalability
+  - ZooKeeper
+  - Kubernetes
 * Cloud Services
+  - AWS Sagemaker
+  - Google ML Engine
+  - Microsoft Azure Machine Learning Studio
 * Awesome Production ML
 ## ֍ Some Project Ideas: 
 ## ֍ Resources: 
