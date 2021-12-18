@@ -252,6 +252,7 @@
 * Dockerize your Python Application
 # ֍ <a id="bde">Big Data Engineer:-</a>
 ### ֍ Big Data Architecture:
+* Architectural Patterns and Best Practices
 ### ֍ Principles:
 ### ֍ Tools:
 ## ֍ Some Project Ideas: 
