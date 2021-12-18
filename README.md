@@ -270,6 +270,7 @@
 * Flume, Scribe: For unstruct Data
 * Data Warehouse with Hive
 * Elastic (EKL) Stack
+  - to get data (e.g logging) search, analyze and visualise it in realtime
 * Avro
 * Flink
 * Dask
