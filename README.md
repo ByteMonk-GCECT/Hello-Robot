@@ -238,6 +238,18 @@
 * Quantization
 * Neural Architecture Search (NAS)
 # ֍ <a id="de">Data Engineer:-</a>
+* Summary of Data Formats
+* Data Discovery
+* Data Source and Acquisition
+* Data Integration
+* Data Fusion
+* Transformation and Enrichment
+* Data Survey
+* OpenRefine
+* How much Data
+* Using ETL
+* Data Lake vs Data Warehouse
+* Dockerize your Python Application
 # ֍ <a id="bde">Big Data Engineer:-</a>
 ### ֍ Big Data Architecture:
 ### ֍ Principles:
