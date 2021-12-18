@@ -260,5 +260,24 @@
 * Name and Data Nodes
 * Job and Task Tracker
 ### ֍ Tools:
+* Check the awesome big data list
+* Hadoop (large data)
+* Spark (in memory)
+* RAPIDS (on GPU)
+* Flume, Scribe: For unstruct Data
+* Data Warehouse with Hive
+* Elastic (EKL) Stack
+* Avro
+* Flink
+* Dask
+* Numba
+* Onnx
+* OpenVino
+* MLFlow
+* Kafka and KSQL
+* Databases
+* Scalability
+* Cloud Services
+* Awesome Production ML
 ## ֍ Some Project Ideas: 
 ## ֍ Resources: 
